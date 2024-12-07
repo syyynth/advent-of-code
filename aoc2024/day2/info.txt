@@ -1,0 +1,5 @@
+second part:
+instead of doing brute force by removing each element one by one
+just check if removing current or next element will do the thing (in case it's wrong)
+
+probably works as intended

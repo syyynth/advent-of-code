@@ -1,0 +1,2 @@
+part1: follow the path
+part2: brute force all positions from the path from part1

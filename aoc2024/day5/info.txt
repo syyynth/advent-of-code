@@ -1,0 +1,1 @@
+use topological sort on a single update

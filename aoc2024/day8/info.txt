@@ -1,0 +1,3 @@
+tried to optimize with stuff that i found
+part1: to reduce time complexity use a dict for each diff frequency
+part2: move along the slope for two antennas

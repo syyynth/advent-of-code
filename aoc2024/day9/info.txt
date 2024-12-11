@@ -1,0 +1,4 @@
+part1: create an array for empty space and files, proceed with basic ad hoc
+part2: get all dists. some free space could potentially be to the right of the file; don't move anything
+
+heap is just for fun

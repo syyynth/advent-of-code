@@ -61,7 +61,7 @@ def part2():
                 dx = x2 - x1
                 dy = y2 - y1
 
-                # because field is a square, move along the slope
+                # move along the slope
                 for k in range(len(data)):
                     first = x1 + k * dx, y1 + k * dy
                     second = x2 - k * dx, y2 - k * dy

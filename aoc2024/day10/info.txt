@@ -1,0 +1,3 @@
+basic recursion
+part1: save start and end into the set to get the score with unique starts and ends, no cache or anything necessary
+part2: add any full trail hit to the tally

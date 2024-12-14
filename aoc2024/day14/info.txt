@@ -1,0 +1,2 @@
+game-of-life type of task, just do as it is
+part2: save arrays as images and find ThE tReE

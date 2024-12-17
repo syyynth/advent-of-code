@@ -6,3 +6,4 @@ part2: the correctness is questionable, but it worked for me
         - multiply this number by 8
         - try to match the suffix at len(program)-2..len(program) with increments by 1
         - repeat for the whole 'program'
+will take A LOT OF TIME for some inputs

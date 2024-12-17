@@ -57,6 +57,7 @@ def part2():
      - multiply this number by 8
      - try to match the suffix at len(program)-2..len(program) with increments by 1
      - repeat for the whole 'program'
+     will take A LOT OF TIME for some inputs
     """
     idx = len(program) - 1
     i = 0
@@ -71,6 +72,5 @@ def part2():
             i += 1
 
 
-# ~3s
 print(f'part 1: {part1()}')
 print(f'part 2: {part2()}')

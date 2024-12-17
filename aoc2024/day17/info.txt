@@ -1,0 +1,8 @@
+part1: simulate the program
+part2: the correctness is questionable, but it worked for me
+       first, with brute force observe that the length of the 'program' is 8^something + some noise for full match
+       educated guess(probably):
+        - try to match the suffix at len(program)-1..len(program) with increments by 1
+        - multiply this number by 8
+        - try to match the suffix at len(program)-2..len(program) with increments by 1
+        - repeat for the whole 'program'

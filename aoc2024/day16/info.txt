@@ -1,0 +1,2 @@
+part1: use dijkstra to find the shortest path
+part2: extend dijkstra to find all min k-paths, count unique cells
